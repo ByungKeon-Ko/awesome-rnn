@@ -330,13 +330,23 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Mengye Ren, Ryan Kiros, and Richard Zemel, *Exploring Models and Data for Image Question Answering*, arXiv:1505.02074 / ICML 2015 deep learning workshop
 * Baidu + UCLA [[Paper](http://arxiv.org/pdf/1505.05612)] [[Dataset]()]
   * Hauyuan Gao, Junhua Mao, Jie Zhou, Zhiheng Huang, Lei Wang, and Wei Xu, *Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering*, arXiv:1505.05612 / NIPS 2015
+* Microsoft Research [[Paper](https://arxiv.org/abs/1511.02274)]
+  * Zichao Yang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Smola, *Stacked Attention Networks for Image Question Answering*, arXiv:1511.02274
+* Postech [[Web](http://cvlab.postech.ac.kr/research/dppnet/)] [[Paper](http://arxiv.org/pdf/1511.05756v1.pdf)]
+  * Hyeonwoo Noh, Paul Hongsuck Seo, Bohyung Han, *Image Question Answering using Convolutional Neural Network
+with Dynamic Parameter Prediction*, arXiv:1511.05756
+* Univ. Southern California + Baidu + UCLA [[paper](https://arxiv.org/pdf/1511.05960)]
+  * Kan Chen, Jiang Wang, Liang-Chieh Chen, Haoyuan Gao, Wei Xu, Ram Nevatia, *ABC-CNN: An Attention Based Convolutional Neural Network for Visual Question Answering*, arXiv:1511.05960
+* Univ. Adelaide [[Paper](https://arxiv.org/abs/1511.06973)]
+  * Qi Wu, Peng Wang, Chunhua Shen, Anthony Dick, Anton van den Hengel, *Ask Me Anything: Free-form Visual Question Answering Based on Knowledge from External Sources*, arXiv:1511.06973
+* MetaMind [[Paper](https://arxiv.org/abs/1603.01417)]
+  * Caiming Xiong, Stephen Merity, Richard Socher, *Dynamic Memory Networks for Visual and Textual Question Answering*, arXiv:1603.01417
 * SNU + NAVER [[Paper](http://arxiv.org/abs/1606.01455)]
   * Jin-Hwa Kim, Sang-Woo Lee, Dong-Hyun Kwak, Min-Oh Heo, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, *Multimodal Residual Learning for Visual QA*, arXiv:1606:01455
 * UC Berkeley + Sony [[Paper](https://arxiv.org/pdf/1606.01847)]
   * Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, and Marcus Rohrbach, *Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding*, arXiv:1606.01847
 * Postech [[Paper](http://arxiv.org/pdf/1606.03647.pdf)]
   * Hyeonwoo Noh and Bohyung Han, *Training Recurrent Answering Units with Joint Loss Minimization for VQA*, arXiv:1606.03647
-* 
 * Video QA
   * CMU + UTS [[paper](http://arxiv.org/abs/1511.04670)]
     * Linchao Zhu, Zhongwen Xu, Yi Yang, Alexander G. Hauptmann, Uncovering Temporal Context for Video Question and Answering, arXiv:1511.04670
